@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthithaagam
+- 👋 Hi, I’m @karthik
 - 👀 I’m interested in ...learning new techmologies
 - 🌱 I’m currently learning ...javascript, ajax and docker
 - 💞️ I’m looking to collaborate on ... thaagam-org
